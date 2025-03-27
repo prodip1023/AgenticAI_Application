@@ -3,11 +3,15 @@
 ### Create Environment:
 
 ```
-conda create -n agenticai python==3.11 -y
+conda create -p agenticai python==3.11 -y
 conda activate agenticai
 ```
 ### Create `.env` file  for add Seceate API Key
-### Create `requirements.txt`  for add pakage name
+### Create `requirements.txt`  for add pakage 
+
+- Agent - Role
+- Tools
+- Task
 
 1.  CrewAI :
  - https://www.crewai.com/
