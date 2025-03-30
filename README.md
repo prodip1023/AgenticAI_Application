@@ -18,6 +18,7 @@ conda activate agenticai
 - https://serper.dev/dashboard
 - https://platform.openai.com/logs
 - https://app.tavily.com/home
+- https://duckduckgo.com/
 
 1.  CrewAI :
  - https://www.crewai.com/
@@ -27,4 +28,6 @@ conda activate agenticai
    - https://www.langchain.com/langgraph
    - https://langchain-ai.github.io/langgraph/tutorials/introduction/
  
-  
+3. LangChain
+   - https://python.langchain.com/v0.1/docs/modules/agents/
+   - https://python.langchain.com/docs/tutorials/agents/
