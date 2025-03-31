@@ -31,3 +31,18 @@ conda activate agenticai
 3. LangChain
    - https://python.langchain.com/v0.1/docs/modules/agents/
    - https://python.langchain.com/docs/tutorials/agents/
+
+4. Deepseek
+   - https://www.deepseek.com/
+   - https://chat.deepseek.com/ 
+
+5. LangFlow
+   - https://www.langflow.org/
+   - https://docs.langflow.org/
+   - NO Code Agents
+
+6. Phidata
+   - https://www.agno.com/
+   - https://docs.phidata.com/introduction 
+   - https://docs.agno.com/introduction
+   - https://www.phidata.app/
