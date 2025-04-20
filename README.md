@@ -46,3 +46,9 @@ conda activate agenticai
    - https://docs.phidata.com/introduction 
    - https://docs.agno.com/introduction
    - https://www.phidata.app/
+
+7. AutoGen
+   - https://pypi.org/project/pyautogen/
+   - https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/installation.html
+   - https://microsoft.github.io/autogen/stable/
+   - https://github.com/microsoft/autogen

@@ -1,0 +1,3 @@
+pyautogen
+ipykernel
+python-dotenv
